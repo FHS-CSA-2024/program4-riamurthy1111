@@ -9,7 +9,7 @@ public class Program4{
         int Variable5 = 0;
         double Variable6 = 0;
         Variable5 = Variable1 + Variable2 + Variable3 + Variable4;
-        Variable6 = Variable5 / 4.0;
+        Variable6 = (double) Variable5 / 4;
         
         System.out.println ("The sum of the four numbers is " + Variable5);
         System.out.println();
