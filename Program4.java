@@ -6,6 +6,10 @@ public class Program4{
         int Variable2 = 821;
         int Variable3 = 369;
         int Variable4 = 562;
+
+        //Take user input for var1-4
+
+        
         int Variable5 = 0;
         double Variable6 = 0;
         Variable5 = Variable1 + Variable2 + Variable3 + Variable4;
